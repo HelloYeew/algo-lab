@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/helloyeew/CLionProjects/algo-lab/build",
+  "command": "/usr/bin/clang++   -g -isysroot /Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk -std=gnu++14 -o CMakeFiles/algo_lab.dir/main.cpp.o -c /Users/helloyeew/CLionProjects/algo-lab/main.cpp",
+  "file": "/Users/helloyeew/CLionProjects/algo-lab/main.cpp"
+}
+]
