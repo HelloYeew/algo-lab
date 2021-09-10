@@ -1,21 +1,25 @@
 #include <iostream>
 using namespace std;
 
-// Write a program that reads a student's score (as an integer) and determines the grade according to the following rule:
-// if the score is at least 80, you program should output Excellent job.
-// if the score is lower than 80 but is at least 50, you program should output Okay.
-// otherwise, you program should output Please try harder.
+int main()
+{
+    // Write a program that reads a positive integer n, then prints a text square as in the following examples.
+    // Input
+    // The input will contain a single integer n (1 ≤ n ≤ 100)
+    // Output
+    // Print a text square as described above.
+    // Examples
+    // Input
+    // 5
+    // Output
+    // 12345
+    // 23451
+    // 34512
+    // 45123
+    // 51234
 
-int main() {
-    int score;
-    cin >> score;
-
-    if (score >= 80) {
-        cout << "Excellent job." << endl;
-    } else if (score >= 50) {
-        cout << "Okay." << endl;
-    } else {
-        cout << "Please try harder." << endl;
-    }
-    return 0;
+    int n;
+    cin >> n;
+    
+    
 }
