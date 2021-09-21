@@ -9,7 +9,7 @@ int main() {
     int printindex = 0;
     while (k != 0) {
         cin >> n >> m;
-        
+
         while (k--) {
             cin >> x >> y;
             if (n == x || m == y) {
