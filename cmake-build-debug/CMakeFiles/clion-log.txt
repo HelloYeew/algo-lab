@@ -1,4 +1,4 @@
-"C:\Users\Windows 10\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\212.5284.51\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - MinGW Makefiles" D:\CLionProjects\algo-lab
+"C:\Users\Windows 10\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.5744.254\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\CLionProjects\algo-lab
 -- Configuring done
 -- Generating done
 -- Build files have been written to: D:/CLionProjects/algo-lab/cmake-build-debug
