@@ -6,6 +6,7 @@
 			[
 				{
 					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.20"
@@ -56,7 +57,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "algo_lab::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-algo_lab-Debug-314a8e93ceda1765a724.json",
+					"jsonFile" : "target-algo_lab-Debug-a10bc03ea05a2d57a69c.json",
 					"name" : "algo_lab",
 					"projectIndex" : 0
 				}
@@ -67,6 +68,7 @@
 			[
 				{
 					"build" : ".",
+					"jsonFile" : "directory-.-Release-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.20"
@@ -117,7 +119,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "algo_lab::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-algo_lab-Release-ad987646c8783636beba.json",
+					"jsonFile" : "target-algo_lab-Release-79b141638a1d24b10e02.json",
 					"name" : "algo_lab",
 					"projectIndex" : 0
 				}
@@ -128,6 +130,7 @@
 			[
 				{
 					"build" : ".",
+					"jsonFile" : "directory-.-MinSizeRel-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.20"
@@ -178,7 +181,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "algo_lab::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-algo_lab-MinSizeRel-2c39350ae442b418c3f4.json",
+					"jsonFile" : "target-algo_lab-MinSizeRel-61ea864abd1ec4b493d4.json",
 					"name" : "algo_lab",
 					"projectIndex" : 0
 				}
@@ -189,6 +192,7 @@
 			[
 				{
 					"build" : ".",
+					"jsonFile" : "directory-.-RelWithDebInfo-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.20"
@@ -239,7 +243,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "algo_lab::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-algo_lab-RelWithDebInfo-c1848477c4e88a5586a2.json",
+					"jsonFile" : "target-algo_lab-RelWithDebInfo-36b29d7a11c9dab6b42f.json",
 					"name" : "algo_lab",
 					"projectIndex" : 0
 				}
@@ -255,6 +259,6 @@
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 2
+		"minor" : 3
 	}
 }

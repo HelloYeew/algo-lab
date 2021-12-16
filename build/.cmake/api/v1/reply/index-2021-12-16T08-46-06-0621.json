@@ -4,39 +4,39 @@
 		"generator" : 
 		{
 			"multiConfig" : true,
-			"name" : "Visual Studio 16 2019",
-			"platform" : "win32"
+			"name" : "Visual Studio 17 2022",
+			"platform" : "x64"
 		},
 		"paths" : 
 		{
-			"cmake" : "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe",
-			"cpack" : "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cpack.exe",
-			"ctest" : "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/ctest.exe",
-			"root" : "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.20"
+			"cmake" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cmake.exe",
+			"cpack" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/cpack.exe",
+			"ctest" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/bin/ctest.exe",
+			"root" : "C:/Program Files/Microsoft Visual Studio/2022/Community/Common7/IDE/CommonExtensions/Microsoft/CMake/CMake/share/cmake-3.21"
 		},
 		"version" : 
 		{
 			"isDirty" : false,
 			"major" : 3,
-			"minor" : 20,
-			"patch" : 21032501,
-			"string" : "3.20.21032501-MSVC_2",
+			"minor" : 21,
+			"patch" : 21080301,
+			"string" : "3.21.21080301-MSVC_2",
 			"suffix" : ""
 		}
 	},
 	"objects" : 
 	[
 		{
-			"jsonFile" : "codemodel-v2-52f8081f631f2c54f692.json",
+			"jsonFile" : "codemodel-v2-cacd295b6c3a07fdbe0a.json",
 			"kind" : "codemodel",
 			"version" : 
 			{
 				"major" : 2,
-				"minor" : 2
+				"minor" : 3
 			}
 		},
 		{
-			"jsonFile" : "cache-v2-930e45e9e09e749beaea.json",
+			"jsonFile" : "cache-v2-b4fd610240d043906465.json",
 			"kind" : "cache",
 			"version" : 
 			{
@@ -45,7 +45,7 @@
 			}
 		},
 		{
-			"jsonFile" : "toolchains-v1-ec0a3ba96c798dc525a6.json",
+			"jsonFile" : "toolchains-v1-be38c8cba183d3df1f92.json",
 			"kind" : "toolchains",
 			"version" : 
 			{
@@ -78,7 +78,7 @@
 				"responses" : 
 				[
 					{
-						"jsonFile" : "cache-v2-930e45e9e09e749beaea.json",
+						"jsonFile" : "cache-v2-b4fd610240d043906465.json",
 						"kind" : "cache",
 						"version" : 
 						{
@@ -87,16 +87,16 @@
 						}
 					},
 					{
-						"jsonFile" : "codemodel-v2-52f8081f631f2c54f692.json",
+						"jsonFile" : "codemodel-v2-cacd295b6c3a07fdbe0a.json",
 						"kind" : "codemodel",
 						"version" : 
 						{
 							"major" : 2,
-							"minor" : 2
+							"minor" : 3
 						}
 					},
 					{
-						"jsonFile" : "toolchains-v1-ec0a3ba96c798dc525a6.json",
+						"jsonFile" : "toolchains-v1-be38c8cba183d3df1f92.json",
 						"kind" : "toolchains",
 						"version" : 
 						{

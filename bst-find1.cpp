@@ -1,4 +1,6 @@
 #include <iostream>
+#include <algorithm>
+#include <vector>
 #include <queue>
 
 using namespace std;
@@ -9,24 +11,17 @@ int main() {
     int n;
     cin >> n;
 
-    int k,y;
+    int k[100010];
+    int y[100010];
+    vector<int> graph;
     for (int i = 0; i < n; i++) {
-        cin >> k >> y;
-        if (k == 1) {
-            graphqueue.push(y);
+        cin >> k[i] >> y[i];
+    }
+    for (int i = 0; i < n; i++) {
+        if (k[i] == 1) {
+            graph.emplace_back(y[i]);
         } else {
-            // search for y in graphqueue if found print 1 else print 0
-            queue<int> newgraph;
-            newgraph = graphqueue;
-            int flag = 0;
-            while (!newgraph.empty()) {
-                if (newgraph.front() == y) {
-                    flag = 1;
-                    break;
-                }
-                newgraph.pop();
-            }
-            if (flag == 1) {
+            if (find(graph.begin(), graph.end(), y[i]) != graph.end()) {
                 cout << "1" << endl;
             } else {
                 cout << "0" << endl;

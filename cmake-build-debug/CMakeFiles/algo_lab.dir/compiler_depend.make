@@ -134,6 +134,11 @@ CMakeFiles/algo_lab.dir/main.cpp.obj: ../main.cpp \
   C:/Users/HelloYeew/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/ostream.tcc \
   C:/Users/HelloYeew/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/istream \
   C:/Users/HelloYeew/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/istream.tcc \
+  C:/Users/HelloYeew/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/vector \
+  C:/Users/HelloYeew/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_uninitialized.h \
+  C:/Users/HelloYeew/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_vector.h \
+  C:/Users/HelloYeew/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_bvector.h \
+  C:/Users/HelloYeew/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/vector.tcc \
   C:/Users/HelloYeew/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/algorithm \
   C:/Users/HelloYeew/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/utility \
   C:/Users/HelloYeew/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_relops.h \
@@ -141,12 +146,7 @@ CMakeFiles/algo_lab.dir/main.cpp.obj: ../main.cpp \
   C:/Users/HelloYeew/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/algorithmfwd.h \
   C:/Users/HelloYeew/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_heap.h \
   C:/Users/HelloYeew/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_tempbuf.h \
-  C:/Users/HelloYeew/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/uniform_int_dist.h \
-  C:/Users/HelloYeew/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/list \
-  C:/Users/HelloYeew/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_list.h \
-  C:/Users/HelloYeew/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/allocated_ptr.h \
-  C:/Users/HelloYeew/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/ext/aligned_buffer.h \
-  C:/Users/HelloYeew/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/list.tcc
+  C:/Users/HelloYeew/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/uniform_int_dist.h
 
 
 C:/Users/HelloYeew/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward/binders.h:
@@ -339,6 +339,8 @@ C:/Users/HelloYeew/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/
 
 C:/Users/HelloYeew/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/x86_64-w64-mingw32/include/pthread_compat.h:
 
+C:/Users/HelloYeew/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/vector:
+
 C:/Users/HelloYeew/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/x86_64-w64-mingw32/include/pthread_unistd.h:
 
 C:/Users/HelloYeew/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/locale_classes.h:
@@ -381,8 +383,6 @@ C:/Users/HelloYeew/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/
 
 C:/Users/HelloYeew/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/charconv.h:
 
-C:/Users/HelloYeew/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/list.tcc:
-
 C:/Users/HelloYeew/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/functional_hash.h:
 
 C:/Users/HelloYeew/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/basic_string.tcc:
@@ -419,6 +419,16 @@ C:/Users/HelloYeew/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/
 
 C:/Users/HelloYeew/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/istream.tcc:
 
+C:/Users/HelloYeew/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_tempbuf.h:
+
+C:/Users/HelloYeew/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_uninitialized.h:
+
+C:/Users/HelloYeew/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_vector.h:
+
+C:/Users/HelloYeew/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_bvector.h:
+
+C:/Users/HelloYeew/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/vector.tcc:
+
 C:/Users/HelloYeew/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/algorithm:
 
 C:/Users/HelloYeew/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/utility:
@@ -429,14 +439,4 @@ C:/Users/HelloYeew/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/
 
 C:/Users/HelloYeew/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/algorithmfwd.h:
 
-C:/Users/HelloYeew/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_tempbuf.h:
-
 C:/Users/HelloYeew/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/uniform_int_dist.h:
-
-C:/Users/HelloYeew/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/list:
-
-C:/Users/HelloYeew/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/stl_list.h:
-
-C:/Users/HelloYeew/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/bits/allocated_ptr.h:
-
-C:/Users/HelloYeew/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/ext/aligned_buffer.h:
