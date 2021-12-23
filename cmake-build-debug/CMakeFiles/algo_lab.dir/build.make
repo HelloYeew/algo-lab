@@ -43,10 +43,10 @@ cmake_force:
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = C:\Users\HelloYeew\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.5744.254\bin\cmake\win\bin\cmake.exe
+CMAKE_COMMAND = C:\Users\HelloYeew\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.6461.46\bin\cmake\win\bin\cmake.exe
 
 # The command to remove a file.
-RM = C:\Users\HelloYeew\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.5744.254\bin\cmake\win\bin\cmake.exe -E rm -f
+RM = C:\Users\HelloYeew\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.6461.46\bin\cmake\win\bin\cmake.exe -E rm -f
 
 # Escaping for special characters.
 EQUALS = =
@@ -72,15 +72,15 @@ CMakeFiles/algo_lab.dir/main.cpp.obj: CMakeFiles/algo_lab.dir/flags.make
 CMakeFiles/algo_lab.dir/main.cpp.obj: ../main.cpp
 CMakeFiles/algo_lab.dir/main.cpp.obj: CMakeFiles/algo_lab.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\CLionProjects\algo-lab\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/algo_lab.dir/main.cpp.obj"
-	C:\Users\HelloYeew\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.5744.254\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/algo_lab.dir/main.cpp.obj -MF CMakeFiles\algo_lab.dir\main.cpp.obj.d -o CMakeFiles\algo_lab.dir\main.cpp.obj -c D:\CLionProjects\algo-lab\main.cpp
+	C:\Users\HelloYeew\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.6461.46\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/algo_lab.dir/main.cpp.obj -MF CMakeFiles\algo_lab.dir\main.cpp.obj.d -o CMakeFiles\algo_lab.dir\main.cpp.obj -c D:\CLionProjects\algo-lab\main.cpp
 
 CMakeFiles/algo_lab.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/algo_lab.dir/main.cpp.i"
-	C:\Users\HelloYeew\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.5744.254\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\CLionProjects\algo-lab\main.cpp > CMakeFiles\algo_lab.dir\main.cpp.i
+	C:\Users\HelloYeew\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.6461.46\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\CLionProjects\algo-lab\main.cpp > CMakeFiles\algo_lab.dir\main.cpp.i
 
 CMakeFiles/algo_lab.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/algo_lab.dir/main.cpp.s"
-	C:\Users\HelloYeew\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.5744.254\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CLionProjects\algo-lab\main.cpp -o CMakeFiles\algo_lab.dir\main.cpp.s
+	C:\Users\HelloYeew\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.6461.46\bin\mingw\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\CLionProjects\algo-lab\main.cpp -o CMakeFiles\algo_lab.dir\main.cpp.s
 
 # Object files for target algo_lab
 algo_lab_OBJECTS = \
