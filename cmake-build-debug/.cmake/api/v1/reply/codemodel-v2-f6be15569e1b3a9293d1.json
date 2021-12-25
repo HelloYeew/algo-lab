@@ -6,7 +6,7 @@
 			[
 				{
 					"build" : ".",
-					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.20"
@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "algo_lab::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-algo_lab-Debug-37864dc3ec92e470bce0.json",
+					"jsonFile" : "target-algo_lab-Debug-9180d003d23a0c72944a.json",
 					"name" : "algo_lab",
 					"projectIndex" : 0
 				}
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/CLionProjects/algo-lab/cmake-build-debug",
-		"source" : "D:/CLionProjects/algo-lab"
+		"build" : "/Users/helloyeew/CLionProjects/algo-lab/cmake-build-debug",
+		"source" : "/Users/helloyeew/CLionProjects/algo-lab"
 	},
 	"version" : 
 	{

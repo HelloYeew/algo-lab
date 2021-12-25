@@ -2,10 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "RelWithDebInfo/algo_lab.exe"
-		},
-		{
-			"path" : "RelWithDebInfo/algo_lab.pdb"
+			"path" : "algo_lab"
 		}
 	],
 	"backtrace" : 1,
@@ -38,10 +35,10 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "/DWIN32 /D_WINDOWS /EHsc /Zi /O2 /Ob1 /DNDEBUG -MD"
+					"fragment" : "-g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk"
 				},
 				{
-					"fragment" : "-std:c++14"
+					"fragment" : "-std=gnu++14"
 				}
 			],
 			"language" : "CXX",
@@ -59,34 +56,24 @@
 			]
 		}
 	],
-	"dependencies" : 
-	[
-		{
-			"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df"
-		}
-	],
 	"id" : "algo_lab::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
 		[
 			{
-				"fragment" : "/DWIN32 /D_WINDOWS /EHsc /Zi /O2 /Ob1 /DNDEBUG -MD",
+				"fragment" : "-g",
 				"role" : "flags"
 			},
 			{
-				"fragment" : "/machine:x64 /debug /INCREMENTAL /subsystem:console",
+				"fragment" : "",
 				"role" : "flags"
-			},
-			{
-				"fragment" : "kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib",
-				"role" : "libraries"
 			}
 		],
 		"language" : "CXX"
 	},
 	"name" : "algo_lab",
-	"nameOnDisk" : "algo_lab.exe",
+	"nameOnDisk" : "algo_lab",
 	"paths" : 
 	{
 		"build" : ".",

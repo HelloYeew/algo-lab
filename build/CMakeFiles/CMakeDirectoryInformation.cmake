@@ -3,7 +3,7 @@
 
 # Relative path conversion top directories.
 set(CMAKE_RELATIVE_PATH_TOP_SOURCE "/Users/helloyeew/CLionProjects/algo-lab")
-set(CMAKE_RELATIVE_PATH_TOP_BINARY "/Users/helloyeew/CLionProjects/algo-lab/cmake-build-debug")
+set(CMAKE_RELATIVE_PATH_TOP_BINARY "/Users/helloyeew/CLionProjects/algo-lab/build")
 
 # Force unix paths in dependencies.
 set(CMAKE_FORCE_UNIX_PATHS 1)

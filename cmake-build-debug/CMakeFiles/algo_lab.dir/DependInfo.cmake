@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "D:/CLionProjects/algo-lab/main.cpp" "CMakeFiles/algo_lab.dir/main.cpp.obj" "gcc" "CMakeFiles/algo_lab.dir/main.cpp.obj.d"
+  "/Users/helloyeew/CLionProjects/algo-lab/main.cpp" "CMakeFiles/algo_lab.dir/main.cpp.o" "gcc" "CMakeFiles/algo_lab.dir/main.cpp.o.d"
   )
 
 # Targets to which this target links.

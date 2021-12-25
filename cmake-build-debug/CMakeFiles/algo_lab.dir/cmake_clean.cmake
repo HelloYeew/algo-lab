@@ -1,10 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/algo_lab.dir/main.cpp.obj"
-  "CMakeFiles/algo_lab.dir/main.cpp.obj.d"
-  "algo_lab.exe"
-  "algo_lab.exe.manifest"
+  "CMakeFiles/algo_lab.dir/main.cpp.o"
+  "CMakeFiles/algo_lab.dir/main.cpp.o.d"
+  "algo_lab"
   "algo_lab.pdb"
-  "libalgo_lab.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.
