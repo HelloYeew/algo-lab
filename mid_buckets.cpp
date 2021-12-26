@@ -3,25 +3,13 @@
 //
 
 #include <iostream>
-#include <vector>
 using namespace std;
-
-int find_lowest_jar(int bucket[]) {
-    int lowest = 1000;
-    int num = 0;
-    for(int number=0; number <= 4; number++){
-        if (bucket[number] < lowest) {
-            lowest = bucket[number];
-            num = number;
-        }
-    }
-    return num;
-}
 
 int bucket[5];
 int main() {
     int N = 0;
     int tank = 0;
+    int lowest_jar, lowest, num;
     cin >> N;
 
     for (int i = 0; i < N; i++) {
@@ -29,13 +17,22 @@ int main() {
 
         cin >> water;
 
-        int lowest = find_lowest_jar(bucket);
+        lowest = 1000;
+        num = 0;
 
-        bucket[lowest] += water;
+        for(int j=0; j <= 4; j++){
+            if (bucket[j] < lowest) {
+                lowest = bucket[j];
+                num = j;
+            }
+        }
+        lowest_jar = num;
 
-        if (bucket[lowest] >= 1000) {
+        bucket[lowest_jar] += water;
+
+        if (bucket[lowest_jar] >= 1000) {
             tank += 1000;
-            bucket[lowest] = 0;
+            bucket[lowest_jar] = 0;
         }
 
     }
